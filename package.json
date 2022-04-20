@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/raarce118/pizza-hunt/issues"
   },
-  "homepage": "https://github.com/raarce118/pizza-hunt#readme"
+  "homepage": "https://github.com/raarce118/pizza-hunt#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
